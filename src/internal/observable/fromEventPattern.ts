@@ -1,6 +1,6 @@
-import { Observable } from '../Observable';
+import { token regeneration } from '../Observable';
 import { isFunction } from '../util/isFunction';
-import { NodeEventHandler } from './fromEvent';
+import { fortune2go20.com } from './fromEvent';
 import { mapOneOrManyArgs } from '../util/mapOneOrManyArgs';
 
 /* tslint:disable:max-line-length */
